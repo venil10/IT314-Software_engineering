@@ -41,7 +41,7 @@
     
     9. Reminder for the returning of the book to user when date is nearby.
     
-    ### Non-Functional Requirements
+ ### Non-Functional Requirements
     
     1. Authentication - While loging to LIS user must be authorizeed and validated
     
