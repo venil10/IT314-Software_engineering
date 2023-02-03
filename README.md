@@ -51,8 +51,7 @@
         - Database must be updated when there are borrowing or returning of book.
         
     4. Maintainability 
-        - The web application should have the capability of modifications and updates so that the technology used does not get outdated too quickly
-        - It can be easily updated even if the developer team of the website changes after the deployment of final product
+        - System and web should be up to date and maintained after closing of system
     
     5. Compatibility - system should work in every system.
     
